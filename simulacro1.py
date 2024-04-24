@@ -13,7 +13,7 @@ def llenar_matiz(n):
                     matriz[i][j] = 3
                 else:
                     matriz[i][j] = 4
-        return matriz
+    return matriz
 
 def matriz(m):
     for fila in m:
